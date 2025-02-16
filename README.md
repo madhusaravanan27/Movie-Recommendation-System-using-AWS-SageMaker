@@ -25,8 +25,11 @@ The following diagram illustrates the architecture used in this project:
 
 ## **Future Enhancements** 🚀
 🔹 **Hybrid recommendation models** combining **autoencoders and collaborative filtering** for better personalization.
+
 🔹 **Real-time recommendations** by integrating **AWS Kinesis** for dynamic updates.
+
 🔹 **User engagement analysis** with **social media and demographic insights**.
+
 🔹 **Cross-platform expansion** for **web, mobile, and smart TVs** to increase accessibility.
 
 ---
