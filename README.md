@@ -9,7 +9,7 @@ This project leverages **AWS SageMaker** to build a **personalized movie recomme
 The following diagram illustrates the architecture used in this project:
 
 <p align="center">
-  <img src="architecture_diagram.png" alt="Project Architecture" width="75%">
+  <img src="diagram.png" alt="Project Architecture" width="75%">
 </p>
 
 ---
@@ -24,10 +24,10 @@ The following diagram illustrates the architecture used in this project:
 ---
 
 ## **Future Enhancements** 🚀
-- 🔹 **Hybrid recommendation models** combining **autoencoders and collaborative filtering** for better personalization.
-- 🔹 **Real-time recommendations** by integrating **AWS Kinesis** for dynamic updates.
-- 🔹 **User engagement analysis** with **social media and demographic insights**.
-- 🔹 **Cross-platform expansion** for **web, mobile, and smart TVs** to increase accessibility.
+🔹 **Hybrid recommendation models** combining **autoencoders and collaborative filtering** for better personalization.
+🔹 **Real-time recommendations** by integrating **AWS Kinesis** for dynamic updates.
+🔹 **User engagement analysis** with **social media and demographic insights**.
+🔹 **Cross-platform expansion** for **web, mobile, and smart TVs** to increase accessibility.
 
 ---
 
